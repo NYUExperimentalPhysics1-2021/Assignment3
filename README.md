@@ -7,7 +7,7 @@ These questions correspond to chapter 5 of the Pine Python Manual
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
 
-This is a template repository for **Introductory Experimental Physics Python Assignment 2**.  To begin, open (click) the `Assignment2.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
+This is a template repository for **Introductory Experimental Physics Python Assignment 3**.  To begin, open (click) the `Assignment3.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
 # Setup and submission
 
